@@ -23,5 +23,5 @@ function init(){
   });
 
 }
-
+//mistakes I did: (1)for loop inside eventlistener--not agood idea,the coach said. (2)Then if keyvalues are used--use e.which method. If key names are used--use e.key method. I used the keyvalues and e.key.(3)For this browser,alert could not be triggered. Code was perfectly fine after correcting above mistakes. So a codeblock in the indexTest.js file was made a comment using/*---*/
   
